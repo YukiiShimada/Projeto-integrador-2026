@@ -1,0 +1,26 @@
+RELATÓRIO DE ANÁLISE DE ATENDIMENTOS DE SAÚDE
+
+Base analisada
+Foi utilizada uma amostra anonimizada de 60 registros do tipo ATENDIMENTO,
+armazenados em banco de dados SQLite.
+
+Variáveis analisadas
+- Período de entrada;
+- Sexo;
+- Cidade;
+- Especialidade.
+
+Principais resultados
+- O período com maior número de atendimentos foi 2024-07, com 9 atendimentos.
+- O sexo com maior número de atendimentos foi M, com 41 registros.
+- A cidade com maior número de atendimentos foi POMPEIA, com 57 registros.
+
+Conclusão
+A análise permitiu identificar a distribuição dos atendimentos por período,
+perfil e localização. Esses indicadores podem apoiar o planejamento do serviço
+de saúde e a identificação de períodos de maior demanda.
+
+Proposta de ação
+Recomenda-se avaliar a organização das equipes no período de maior demanda e
+verificar a concentração de atendimentos por cidade, buscando reduzir possíveis
+sobrecargas e melhorar a distribuição dos recursos.
